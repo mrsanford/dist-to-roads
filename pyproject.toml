@@ -11,4 +11,6 @@ dependencies = [
     "osmium>=4.0.2",
     "pandas>=2.2.3",
     "pyproj>=3.7.1",
+    "requests>=2.32.3",
+    "tqdm>=4.67.1",
 ]
